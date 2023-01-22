@@ -1,0 +1,92 @@
+img {
+    margin-top: 5px;
+    height:100px;
+    width:150px;
+}
+tr {
+    height:110px;
+}
+td {
+    width:160px;
+    text-align:center;
+}
+header {
+    height:100px;
+    background-color:darkgray;
+}
+footer {
+    height:50px;
+    background-color:lightgray;
+}
+#tr1_1 {
+    background-color:yellow;
+}
+#tr2_1 {
+    background-color:red;
+}
+#tr3_1 {
+    background-color:green;
+}
+#tr4_1 {
+    background-color:blue;
+}
+#tr1_2 {
+    background-color:aquamarine;
+}
+#tr2_2 {
+    background-color:brown;
+}
+#tr3_2 {
+    background-color:chartreuse;
+}
+#tr4_2 {
+    background-color:darkred;
+}
+#tr1_3 {
+    background-color:cadetblue;
+}
+#tr2_3 {
+    background-color:mediumaquamarine;
+}
+#tr3_3 {
+    background-color:mediumpurple;
+}
+#tr4_3 {
+    background-color:lightpink;
+}
+#tr1_4 {
+    background-color:darkseagreen;
+}
+#tr2_4 {
+    background-color:navajowhite;
+}
+#tr3_4 {
+    background-color:lightslategrey;
+}
+#tr4_4 {
+    background-color:peachpuff;
+}
+.bckgr1 {
+    background-color:indianred;
+}
+.bckgr2 {
+    background-color:aquamarine;
+}
+.bckgr3 {
+    background-color:lightblue;
+}
+.bckgr4 {
+    background-color:khaki;
+}
+.bckgr5 {
+    background-color:teal;
+}
+.bckgr6 {
+    background-color:hotpink;
+}
+.bckgr7 {
+    background-color:seagreen;
+}
+.bckgr8 {
+    background-color:tomato;
+}
